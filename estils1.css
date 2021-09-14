@@ -241,3 +241,34 @@ img{
 
   color:black;
 }
+
+.fonsapti{
+
+
+ background-color: #EEECEC;
+
+ border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+
+margin: 10px;
+
+
+
+}
+
+.progress{
+
+    border: 1px solid grey !important;
+}
+
+
+
+.textapti{
+
+    line-height: 18px; 
+    font-size:0.8rem;
+    margin: 3px 0px 3px 5px;
+    padding: 0px;
+    
+}
